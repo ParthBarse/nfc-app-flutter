@@ -1,0 +1,4 @@
+#Sun Oct 22 23:33:00 IST 2023
+base.0=D\:\\BnB_Developers\\GetCode\\mobile_app\\nfcscaner\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
